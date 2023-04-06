@@ -1,4 +1,8 @@
 # Geo-Python 2022
+Taking Geo-Python Course on Geo-Python Course 2022
+This is my repository for the course.
+Containing my notes and codes throughout the course.
+
 ## Course Websites
 
 * Geo-Python/AutoGIS 1 (Preiod I)
