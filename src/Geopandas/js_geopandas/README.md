@@ -14,10 +14,7 @@ pyproj - cartographic projections
  - PROJ.4
 
 descartes - mapping
-
 geopy - geocoding
-
 rtree - spatial analysis
-
 pysal - coloring maps
- 
+numpy - math
