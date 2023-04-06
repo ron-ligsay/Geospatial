@@ -1,4 +1,5 @@
-
+Geo-Python 2022 Lesson 1.1 - Course introduction and computing basics
+https://www.youtube.com/watch?v=BmQC5brXCXI
 
 ## Course Websites
 
