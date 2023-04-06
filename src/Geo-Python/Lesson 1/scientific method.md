@@ -1,0 +1,11 @@
+## The scientific method
+and how  programming can make you a better scientist
+
+1. Define a question
+2. Gather information and resources (observe)
+3. Form an explanatory hypothesis
+4. Test the hypothesis by performing an experiment and collecting data in a reproducible manner
+5. Analyze the data
+6. Intercept the data and draw cocclusions that serve as a starting pint for new hypothesis
+7. Publish results
+8. Retest (frequently done by other scientiests)
