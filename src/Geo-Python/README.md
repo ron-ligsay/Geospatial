@@ -1,6 +1,4 @@
-Geo-Python 2022 Lesson 1.1 - Course introduction and computing basics
-https://www.youtube.com/watch?v=BmQC5brXCXI
-
+# Geo-Python 2022
 ## Course Websites
 
 * Geo-Python/AutoGIS 1 (Preiod I)
@@ -10,15 +8,8 @@ https://www.youtube.com/watch?v=BmQC5brXCXI
     [https://autogis-site.readthedocs.io/en/latest/](https://autogis-site.readthedocs.io/en/latest/)
     [https://autogis.github.io]
 
+Geo-Python 2022 Lesson 1.1 - Course introduction and computing basics
+https://www.youtube.com/watch?v=BmQC5brXCXI
 
-## The scientific method
-and how  programming can make you a better scientist
-
-1. Define a question
-2. Gather information and resources (observe)
-3. Form an explanatory hypothesis
-4. Test the hypothesis by performing an experiment and collecting data in a reproducible manner
-5. Analyze the data
-6. Intercept the data and draw cocclusions that serve as a starting pint for new hypothesis
-7. Publish results
-8. Retest (frequently done by other scientiests)
+Geo-Python 2022 Lesson 1.2 - Course environment and a taste of Python
+https://www.youtube.com/watch?v=LeUA0ZgHm8M&list=PLSfo8kUsEJA9S-rcuCtlG_ag_ViPzi51J&index=2
