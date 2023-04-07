@@ -29,3 +29,6 @@ pip3 install pysal
 pip3 install geopandas
 pip3 install https://github.com
 pip3 install rtree
+
+Requires Microsoft Visual C++ 14.0 is required. Get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/
+Requires Python version 3.5 or later.
