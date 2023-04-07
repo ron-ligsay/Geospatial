@@ -84,3 +84,6 @@ IAU codes - International Astronomical Union
   - 3 letter codes
   - 2 letter codes
   - 1 letter codes
+
+
+IF you have different coordinate reference systems, you can convert one of them to the other one
