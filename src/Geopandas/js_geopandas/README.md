@@ -44,3 +44,8 @@ shapefile is the actual geometry of your data. It is a file with a .shp extensio
   .shx - shape index - stores the index of the features in the shapefile
 
 You can look them up on esri.comm/arcgisdestop - ArcGIS Desktop 9.3 Help /shapefiles/shapefile file extensions
+
+## Downloading Shapefiles
+https://www.statsilk.com/maps/download-free-shapefile-maps
+
+ - Australia Sub-State Regions (Level 4/SA4s) - download zip file (v 3.2)
