@@ -55,5 +55,11 @@ https://www.statsilk.com/maps/download-free-shapefile-maps
 or
 ### Geographic Coordinate System
 
-planet shape like is a ellipsoid
+planet Earth is shape like a ellipsoid
+Earth is shaped like a potato
 
+ELLIPSOID - shape of the earth
+DATUM - where the ellipsoid is located
+
+NAD83 - North American Datum 1983
+WGS84 - World Geodetic System 1984
