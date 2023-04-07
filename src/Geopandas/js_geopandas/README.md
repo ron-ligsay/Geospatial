@@ -63,3 +63,6 @@ DATUM - where the ellipsoid is located
 
 NAD83 - North American Datum 1983
 WGS84 - World Geodetic System 1984
+#### Australian Coordinate Reference Systems
+GDA94 - Geocentric Datum of Australia 1994
+
