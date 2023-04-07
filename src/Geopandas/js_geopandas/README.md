@@ -87,3 +87,8 @@ IAU codes - International Astronomical Union
 
 
 IF you have different coordinate reference systems, you can convert one of them to the other one
+
+
+
+checkpoint
+https://www.youtube.com/watch?v=JN35I8EYD4M&list=PLewNEVDy7gq3DjrPDxGFLbHE4G2QWe8Qh&index=9
