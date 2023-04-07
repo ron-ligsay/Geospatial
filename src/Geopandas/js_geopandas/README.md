@@ -66,3 +66,11 @@ WGS84 - World Geodetic System 1984
 #### Australian Coordinate Reference Systems
 GDA94 - Geocentric Datum of Australia 1994
 
+state plain system - SPC Zones (2004)
+  - 50 zones
+  - 3 zones in each state
+  - 1 zone in each territory
+  - 1 zone in each state
+  - 1 zone in each state
+
+Countries have their own coordinate reference systems
