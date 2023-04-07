@@ -49,3 +49,11 @@ You can look them up on esri.comm/arcgisdestop - ArcGIS Desktop 9.3 Help /shapef
 https://www.statsilk.com/maps/download-free-shapefile-maps
 
  - Australia Sub-State Regions (Level 4/SA4s) - download zip file (v 3.2)
+
+
+### Coordinate Reference Systems
+or
+### Geographic Coordinate System
+
+planet shape like is a ellipsoid
+
