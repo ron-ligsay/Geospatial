@@ -77,3 +77,10 @@ Countries have their own coordinate reference systems
 
 ### Well Known Text (WKT)
 Well Known Text (WKT) is a text markup language for representing vector geometry objects on a map, spatial reference systems of spatial objects, and transformations between spatial reference systems. WKT is defined in the OpenGIS Simple Features Specification for SQL. WKT is also used by the Open Geospatial Consortium (OGC) Geography Markup Language (GML) standard.
+
+
+### On Mars
+IAU codes - International Astronomical Union
+  - 3 letter codes
+  - 2 letter codes
+  - 1 letter codes
